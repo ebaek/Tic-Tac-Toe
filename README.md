@@ -1,7 +1,7 @@
 # Tic Tac Toe
 Simple tic tac toe game using JS, React, CSS, and HTML5. 
 
-[View Live Site Here](https://ebaek.github.io/tic-tac-toe/)
+[View Live Site Here](http://www.estherbaek.com/Tic-Tac-Toe/)
 ---
 
 ![Image](screenshots/game.png)
